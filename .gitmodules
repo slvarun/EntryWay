@@ -1,0 +1,6 @@
+[submodule "EntryWayFrontEnd"]
+	path = EntryWayFrontEnd
+	url = https://github.com/slvarun/EntryWayFrontEnd.git
+[submodule "EntryWayBackEnd"]
+	path = EntryWayBackEnd
+	url = https://github.com/slvarun/EntryWayBackEnd.git
